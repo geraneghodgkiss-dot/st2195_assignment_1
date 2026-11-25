@@ -1,0 +1,28 @@
+---
+title: "Markdown Assignment 3"
+date: "25-11-2026"
+author: "Geran"
+---
+
+## Assignment 3
+
+This is my markdown file requested in the assignment for module 1. 
+
+Thank you *Dr Krissaane* for taking the time to read it.
+
+_Here is the code requested_:
+
+For R:
+
+```{r}
+print(1:10)
+```
+
+For Python:
+
+```{python}
+print(*range(1, 11))
+```
+
+Thanks again
+
